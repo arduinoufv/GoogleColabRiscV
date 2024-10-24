@@ -13,3 +13,9 @@ Exemplos de Simuladores Abertos para Ensino de Risc-V
 * [Simulador Verilog Risc-V com visualização passo a passo do Caminho de Dados Mono-ciclo](https://colab.research.google.com/drive/170qxfdCPs-d4qSeHA-WC6UKM5jMce78g?usp=sharing)
 
 # SVG Editável
+
+* [Simulador Pipeline com Verilog animação ASCII e SVG](https://colab.research.google.com/drive/1HBvXZqjnrma_9umUg0N8R39GVV9yDScI?usp=sharing)
+
+# [Apresentação WEAC 2024](https://docs.google.com/presentation/d/1X2lIf3CnVcX8jlzMt0tCufI_krY5XMvEZ9pab9NvEJ4/edit?usp=sharing)
+
+
